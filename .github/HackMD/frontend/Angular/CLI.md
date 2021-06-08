@@ -1,4 +1,6 @@
 {%hackmd SJz188iO_ %}
+[![hackmd-github-sync-badge](https://hackmd.io/XeRcOAa-Q966snhT3Dr99w/badge)](https://hackmd.io/XeRcOAa-Q966snhT3Dr99w)
+
 # Angular 產生語法
 ---
 ## 常用CLI指令
